@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "aeea",
+      "username": "palak",
+      "email": "gohelpalak14@gmail.com",
+      "password": "1234",
+      "cpass": "1234"
+    }
+  ],
+  "cartData": [
+    {
+      "id": "8019",
+      "quantity": "1",
+      "productId": "2",
+      "userId": "aeea"
+    },
+    {
+      "id": "154e",
+      "quantity": "1",
+      "productId": "2",
+      "userId": "aeea"
+    },
+    {
+      "id": "9298",
+      "quantity": "1",
+      "productId": "3",
+      "userId": "aeea"
+    },
+    {
+      "id": "0dce",
+      "quantity": "1",
+      "productId": "3",
+      "userId": "aeea"
+    }
+  ]
+}
